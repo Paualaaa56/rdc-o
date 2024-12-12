@@ -1,0 +1,1 @@
+<?php include'/xampp2/htdocs/TestProyecto/TestProyecto/templates_paginas_secundarias/header_paciente.php'?>
